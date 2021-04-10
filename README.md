@@ -8,7 +8,9 @@
 
 ##### [Original Xbox Emulator](https://github.com/mborgerson/xemu/wiki)<br/>
 
-##### [Original Xbox Emulator - Oficial Page](https://xemu.app/)<br/>
+##### [Cxbx - Xbox Emulator](https://github.com/Cxbx-Reloaded/Cxbx-Reloaded)<br/>
+
+##### [Cxbx - Xbox Emulator - Oficial Home Page](https://cxbx-reloaded.co.uk/)<br/>
 
 ##### [3DO BIOS](https://github.com/trapexit/3do-bios)<br/>
 
