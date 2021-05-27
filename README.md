@@ -18,3 +18,5 @@
 
 ##### [3DO BIOS](https://github.com/trapexit/3do-bios)<br/>
 
+##### [Lib Allegro](https://github.com/liballeg)<br/>
+
