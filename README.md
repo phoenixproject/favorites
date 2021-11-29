@@ -20,3 +20,5 @@
 
 ##### [Lib Allegro](https://github.com/liballeg)<br/>
 
+##### [Kishimoto Studios](https://github.com/KishimotoStudios)<br/>
+
