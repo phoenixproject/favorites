@@ -23,3 +23,7 @@
 ##### [Kishimoto Studios](https://github.com/KishimotoStudios)<br/>
 
 ##### [Bin 2 Wav](https://github.com/raydac/bkbin2wav)<br/>
+
+##### [Converte em lote ISO / WAV / CUE de volta para BIN / CUE](https://sobrelinux.info/questions/832383/batch-convert-iso-wav-cue-back-into-bin-cue)<br/>
+
+##### [WAVE PCM soundfile format ](http://soundfile.sapp.org/doc/WaveFormat/)<br/>
