@@ -26,4 +26,8 @@
 
 ##### [Converte em lote ISO / WAV / CUE de volta para BIN / CUE](https://sobrelinux.info/questions/832383/batch-convert-iso-wav-cue-back-into-bin-cue)<br/>
 
-##### [WAVE PCM soundfile format ](http://soundfile.sapp.org/doc/WaveFormat/)<br/>
+##### [WAVE PCM soundfile format](http://soundfile.sapp.org/doc/WaveFormat/)<br/>
+
+##### [bin2wav](https://github.com/saramibreak/bin2wav)<br/>
+
+##### [Redump Forum -Disc Preservation Project -  bin2wav](http://forum.redump.org/topic/13882/bin2wav/)<br/>
