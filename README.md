@@ -39,3 +39,9 @@
 ##### [Adriana Cubas](https://www.youtube.com/channel/UCmTTKDgAAciioZX5HlEcP7w)<br/>
 
 ##### [Murilo Gun](https://www.youtube.com/channel/UCyw6tt7DUm59NtUgeg_ML7A)<br/>
+
+#### Conhecimento Pessoal
+
+##### [Competências Comportamentais](https://fia.com.br/blog/competencias-comportamentais/)<br/>
+
+##### [Liderança: as 6 competências fundamentais do líder digital](https://www.michaelpage.com.br/advice/carreira-profissional/desenvolvimiento-de-carreira/lideran%C3%A7a-6-compet%C3%AAncias-fundamentais-do)<br/>
