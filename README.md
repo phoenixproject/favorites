@@ -45,3 +45,5 @@
 ##### [Competências Comportamentais](https://fia.com.br/blog/competencias-comportamentais/)<br/>
 
 ##### [Liderança: as 6 competências fundamentais do líder digital](https://www.michaelpage.com.br/advice/carreira-profissional/desenvolvimiento-de-carreira/lideran%C3%A7a-6-compet%C3%AAncias-fundamentais-do)<br/>
+
+##### [Godot demo projects](https://github.com/godotengine/godot-demo-projects)<br/>
