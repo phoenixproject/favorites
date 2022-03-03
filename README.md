@@ -2,6 +2,8 @@
 
 ##### [Godot demo projects](https://github.com/godotengine/godot-demo-projects)<br/>
 
+##### [Overview of Godot's key concepts](https://docs.godotengine.org/en/stable/getting_started/introduction/key_concepts_overview.html)<br/>
+
 #### Favorites Repositories
 
 ##### [Windy - Leaflet Plugins Repositories](https://github.com/windycom)<br/>
@@ -51,3 +53,5 @@
 ##### [Competências Comportamentais](https://fia.com.br/blog/competencias-comportamentais/)<br/>
 
 ##### [Liderança: as 6 competências fundamentais do líder digital](https://www.michaelpage.com.br/advice/carreira-profissional/desenvolvimiento-de-carreira/lideran%C3%A7a-6-compet%C3%AAncias-fundamentais-do)<br/>
+
+#### Favorites Channels
