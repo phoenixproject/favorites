@@ -40,6 +40,8 @@
 
 ##### [Open Iconic](https://github.com/iconic/open-iconic)<br/>
 
+##### [Blazer in Action] (https://github.com/chrissainty/blazor-in-action)<br/>
+
 #### Favorites Channels
 
 ##### [Seja Uma Pessoa Melhor](https://www.youtube.com/channel/UCbG7_Agdb99rhG9-rhY8iTg)<br/>
