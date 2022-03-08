@@ -42,6 +42,8 @@
 
 ##### [Blazer in Action] (https://github.com/chrissainty/blazor-in-action)<br/>
 
+##### [Blazer in Action - Live Book] (https://livebook.manning.com/book/blazor-in-action)<br/>
+
 #### Favorites Channels
 
 ##### [Seja Uma Pessoa Melhor](https://www.youtube.com/channel/UCbG7_Agdb99rhG9-rhY8iTg)<br/>
