@@ -40,9 +40,15 @@
 
 ##### [Open Iconic](https://github.com/iconic/open-iconic)<br/>
 
-##### [Blazer in Action] (https://github.com/chrissainty/blazor-in-action)<br/>
+#### Blazor 
 
-##### [Blazer in Action - Live Book] (https://livebook.manning.com/book/blazor-in-action)<br/>
+##### [Blazor WebAssembly - User Registration and Login Example & Tutorial] (https://jasonwatmore.com/post/2020/11/09/blazor-webassembly-user-registration-and-login-example-tutorial)<br/>
+
+##### [Blazor WebAssembly - User Registration and Login Example & Tutorial - GITHUB] (https://github.com/cornflourblue/blazor-webassembly-registration-login-example)<br/>
+
+##### [Blazor in Action] (https://github.com/chrissainty/blazor-in-action)<br/>
+
+##### [Blazor in Action - Live Book] (https://livebook.manning.com/book/blazor-in-action)<br/>
 
 #### Favorites Channels
 
