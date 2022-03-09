@@ -50,6 +50,8 @@
 
 ##### [Blazor in Action - Live Book] (https://livebook.manning.com/book/blazor-in-action)<br/>
 
+##### [Curious Drive (various courses)] (https://www.curiousdrive.com)<br/>
+
 #### Favorites Channels
 
 ##### [Seja Uma Pessoa Melhor](https://www.youtube.com/channel/UCbG7_Agdb99rhG9-rhY8iTg)<br/>
