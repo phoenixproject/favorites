@@ -60,6 +60,8 @@
 
 ##### [Murilo Gun](https://www.youtube.com/channel/UCyw6tt7DUm59NtUgeg_ML7A)<br/>
 
+##### [Git-Rautu - Comandos básicos do git e seu uso com o GitHub](https://github.com/fernandomayer/git-rautu)<br/>
+
 #### Conhecimento Pessoal
 
 ##### [Competências Comportamentais](https://fia.com.br/blog/competencias-comportamentais/)<br/>
