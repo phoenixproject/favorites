@@ -56,6 +56,8 @@
 
 ##### [Curious Drive (various courses)] (https://www.curiousdrive.com)<br/>
 
+##### [Blazored - Libraries and Components designed for Microsoft's Blazor Framework] (https://github.com/Blazored)<br/>
+
 #### Favorites Channels
 
 ##### [Seja Uma Pessoa Melhor](https://www.youtube.com/channel/UCbG7_Agdb99rhG9-rhY8iTg)<br/>
