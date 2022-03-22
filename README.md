@@ -48,6 +48,10 @@
 
 #### Blazor 
 
+##### [Blazor Server Cookie Authentication - Github] (https://github.com/Naveen512/Dot6.BlazorServer.Cookie.Auth)<br/>
+
+##### [Blazor Server Cookie Authentication - Video] (https://www.youtube.com/watch?v=YszOb0QLcA0&list=PL2eVfXAfgcFgENUk_n4HXD0RtLv738K6j&index=6)<br/>
+
 ##### [Blazor WebAssembly - User Registration and Login Example & Tutorial] (https://jasonwatmore.com/post/2020/11/09/blazor-webassembly-user-registration-and-login-example-tutorial)<br/>
 
 ##### [Blazor WebAssembly - User Registration and Login Example & Tutorial - GITHUB] (https://github.com/cornflourblue/blazor-webassembly-registration-login-example)<br/>
