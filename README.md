@@ -64,6 +64,8 @@
 
 ##### [Blazored - Libraries and Components designed for Microsoft's Blazor Framework] (https://github.com/Blazored)<br/>
 
+##### [Blazored - Local Storage] (https://github.com/Blazored/LocalStorage)<br/> 
+
 #### Favorites Channels
 
 ##### [Seja Uma Pessoa Melhor](https://www.youtube.com/channel/UCbG7_Agdb99rhG9-rhY8iTg)<br/>
