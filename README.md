@@ -46,6 +46,8 @@
 
 ##### [Open Iconic](https://github.com/iconic/open-iconic)<br/>
 
+##### [Julius App](https://github.com/sidneyroberto/julius-app/)<br/>
+
 #### Blazor 
 
 ##### [Blazor Server Cookie Authentication - Github] (https://github.com/Naveen512/Dot6.BlazorServer.Cookie.Auth)<br/>
