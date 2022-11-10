@@ -50,6 +50,14 @@
 
 #### Blazor 
 
+##### [Razor ASP.NET Core ciclo de vida do componente] (https://learn.microsoft.com/pt-br/aspnet/core/blazor/components/lifecycle?view=aspnetcore-7.0)<br/>
+
+##### [Limpando recursos não gerenciados] (https://learn.microsoft.com/pt-br/dotnet/standard/garbage-collection/unmanaged<br/>
+
+##### [Implementar um método Dispose] (https://learn.microsoft.com/pt-br/dotnet/standard/garbage-collection/implementing-dispose)<br/>
+
+##### [Limpando recursos não gerenciados] (https://learn.microsoft.com/pt-br/dotnet/standard/garbage-collection/unmanaged)<br/>
+
 ##### [Blazor Server Cookie Authentication - Github] (https://github.com/Naveen512/Dot6.BlazorServer.Cookie.Auth)<br/>
 
 ##### [Blazor Server Cookie Authentication - Video] (https://www.youtube.com/watch?v=YszOb0QLcA0&list=PL2eVfXAfgcFgENUk_n4HXD0RtLv738K6j&index=6)<br/>
