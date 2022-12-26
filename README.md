@@ -48,31 +48,35 @@
 
 ##### [Julius App](https://github.com/sidneyroberto/julius-app/)<br/>
 
+#### .Net 
+
+##### [ASP.NET Core](https://github.com/dotnet/AspNetCore.Docs)<br/>
+
 #### Blazor 
 
-##### [Razor ASP.NET Core ciclo de vida do componente] (https://learn.microsoft.com/pt-br/aspnet/core/blazor/components/lifecycle?view=aspnetcore-7.0)<br/>
+##### [Razor ASP.NET Core ciclo de vida do componente](https://learn.microsoft.com/pt-br/aspnet/core/blazor/components/lifecycle?view=aspnetcore-7.0)<br/>
 
-##### [Limpando recursos não gerenciados] (https://learn.microsoft.com/pt-br/dotnet/standard/garbage-collection/unmanaged<br/>
+##### [Limpando recursos não gerenciados](https://learn.microsoft.com/pt-br/dotnet/standard/garbage-collection/unmanaged<br/>
 
-##### [Implementar um método Dispose] (https://learn.microsoft.com/pt-br/dotnet/standard/garbage-collection/implementing-dispose)<br/>
+##### [Implementar um método Dispose](https://learn.microsoft.com/pt-br/dotnet/standard/garbage-collection/implementing-dispose)<br/>
 
-##### [Blazor Server Cookie Authentication - Github] (https://github.com/Naveen512/Dot6.BlazorServer.Cookie.Auth)<br/>
+##### [Blazor Server Cookie Authentication - Github](https://github.com/Naveen512/Dot6.BlazorServer.Cookie.Auth)<br/>
 
-##### [Blazor Server Cookie Authentication - Video] (https://www.youtube.com/watch?v=YszOb0QLcA0&list=PL2eVfXAfgcFgENUk_n4HXD0RtLv738K6j&index=6)<br/>
+##### [Blazor Server Cookie Authentication - Video](https://www.youtube.com/watch?v=YszOb0QLcA0&list=PL2eVfXAfgcFgENUk_n4HXD0RtLv738K6j&index=6)<br/>
 
-##### [Blazor WebAssembly - User Registration and Login Example & Tutorial] (https://jasonwatmore.com/post/2020/11/09/blazor-webassembly-user-registration-and-login-example-tutorial)<br/>
+##### [Blazor WebAssembly - User Registration and Login Example & Tutorial](https://jasonwatmore.com/post/2020/11/09/blazor-webassembly-user-registration-and-login-example-tutorial)<br/>
 
-##### [Blazor WebAssembly - User Registration and Login Example & Tutorial - GITHUB] (https://github.com/cornflourblue/blazor-webassembly-registration-login-example)<br/>
+##### [Blazor WebAssembly - User Registration and Login Example & Tutorial - GITHUB](https://github.com/cornflourblue/blazor-webassembly-registration-login-example)<br/>
 
-##### [Blazor in Action] (https://github.com/chrissainty/blazor-in-action)<br/>
+##### [Blazor in Action](https://github.com/chrissainty/blazor-in-action)<br/>
 
-##### [Blazor in Action - Live Book] (https://livebook.manning.com/book/blazor-in-action)<br/>
+##### [Blazor in Action - Live Book](https://livebook.manning.com/book/blazor-in-action)<br/>
 
-##### [Curious Drive (various courses)] (https://www.curiousdrive.com)<br/>
+##### [Curious Drive (various courses)](https://www.curiousdrive.com)<br/>
 
-##### [Blazored - Libraries and Components designed for Microsoft's Blazor Framework] (https://github.com/Blazored)<br/>
+##### [Blazored - Libraries and Components designed for Microsoft's Blazor Framework](https://github.com/Blazored)<br/>
 
-##### [Blazored - Local Storage] (https://github.com/Blazored/LocalStorage)<br/> 
+##### [Blazored - Local Storage](https://github.com/Blazored/LocalStorage)<br/> 
 
 #### Favorites Channels
 
