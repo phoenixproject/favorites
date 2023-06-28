@@ -12,6 +12,8 @@
 
 #### Favorites Repositories
 
+##### [Damienbod - Asp Net Core NLog](https://github.com/damienbod/AspNetCoreNlog)<br/>
+
 ##### [Windy - Leaflet Plugins Repositories](https://github.com/windycom)<br/>
 
 ##### [Leaflet KML layer plugin](https://github.com/windycom/leaflet-kml)<br/>
