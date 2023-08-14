@@ -50,6 +50,10 @@
 
 ##### [Julius App](https://github.com/sidneyroberto/julius-app/)<br/>
 
+#### Steam Deck
+
+##### [Dragoon Dorise - Emudeck](https://github.com/dragoonDorise/EmuDeck)
+
 #### .Net 
 
 ##### [ASP.NET Core](https://github.com/dotnet/AspNetCore.Docs)<br/>
