@@ -54,6 +54,12 @@
 
 ##### [Dragoon Dorise - Emudeck](https://github.com/dragoonDorise/EmuDeck)
 
+##### [Steam OS - Download](https://store.steampowered.com/steamos/download/?ver=steamdeck&snr)
+
+##### [Wii U Pro Controller - Steam Deck](https://www.reddit.com/r/Steam/comments/xutlp9/nintendo_wii_u_pro_controller_now_working_with/?rdt=65386)
+
+##### [Steam Deck Depot - Utils](http://depot.guiadosteamdeck.com.br/steamdeck_depot/utils/)
+
 #### .Net 
 
 ##### [ASP.NET Core](https://github.com/dotnet/AspNetCore.Docs)<br/>
