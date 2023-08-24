@@ -64,6 +64,9 @@
 
 ##### [ASP.NET Core](https://github.com/dotnet/AspNetCore.Docs)<br/>
 
+##### [.Net Enviroments (Console e Asp Net Core) 20210305-dotnet-env-config
+]([https://github.com/dotnet/AspNetCore.Docs](https://github.com/DamirsCorner/20210305-dotnet-env-config)<br/>
+
 #### Blazor 
 
 ##### [Razor ASP.NET Core ciclo de vida do componente](https://learn.microsoft.com/pt-br/aspnet/core/blazor/components/lifecycle?view=aspnetcore-7.0)<br/>
