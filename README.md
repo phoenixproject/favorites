@@ -108,4 +108,7 @@
 
 ##### [Liderança: as 6 competências fundamentais do líder digital](https://www.michaelpage.com.br/advice/carreira-profissional/desenvolvimiento-de-carreira/lideran%C3%A7a-6-compet%C3%AAncias-fundamentais-do)<br/>
 
+#### Desenho
+
+##### [Drawing a Girl with Glasses](https://www.youtube.com/shorts/iVVh_HG4wIE)<br/>
 #### Favorites Channels
