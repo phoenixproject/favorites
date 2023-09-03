@@ -111,4 +111,11 @@
 #### Desenho
 
 ##### [Drawing a Girl with Glasses](https://www.youtube.com/shorts/iVVh_HG4wIE)<br/>
+
 #### Favorites Channels
+
+#### Github
+
+##### [Recovery codes](https://github.com/settings/auth/recovery-codes)<br/>
+
+##### [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager)<br/>
