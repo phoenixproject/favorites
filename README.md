@@ -60,6 +60,8 @@
 
 ##### [Steam Deck Depot - Utils](http://depot.guiadosteamdeck.com.br/steamdeck_depot/utils/)
 
+##### [Rust Deck - Acessar remotamente o aparelho](https://github.com/rustdesk/rustdesk/releases)
+
 #### .Net 
 
 ##### [ASP.NET Core](https://github.com/dotnet/AspNetCore.Docs)<br/>
