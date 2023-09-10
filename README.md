@@ -62,6 +62,8 @@
 
 ##### [Rust Deck - Acessar remotamente o aparelho](https://github.com/rustdesk/rustdesk/releases)
 
+##### [BoxWave Stylus Pen](https://www.boxwave.com/valve-steam-deck-stylus/bwdcd/tfwvz-z/))
+
 #### .Net 
 
 ##### [ASP.NET Core](https://github.com/dotnet/AspNetCore.Docs)<br/>
