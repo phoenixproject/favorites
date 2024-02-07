@@ -6,6 +6,8 @@
 
 ##### [Map Editor - Tiled](https://www.mapeditor.org/)<br/>
 
+##### [Godot_e_GDscript_em_7_dias](https://github.com/Bandeiraa/godot_e_gdscript_em_7_dias)<br/>
+
 #### Dev Repositories (Mega Drive)
 
 ##### [SGDK - A free and open development kit for the Sega Mega Drive ](https://github.com/Stephane-D/SGDK)<br/>
