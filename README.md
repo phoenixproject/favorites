@@ -125,3 +125,38 @@
 ##### [Recovery codes](https://github.com/settings/auth/recovery-codes)<br/>
 
 ##### [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager)<br/>
+
+#### REPOSITÓRIOS DO GITHUB QUE VOCÊ DEVERIA SABER 🌟🚀
+
+O GitHub é uma mina de ouro para desenvolvedores, repleto de projetos incríveis que podem ajudá-lo a aprender, colaborar e se inspirar. Aqui estão 15 repositórios que você definitivamente deveria conhecer:
+
+1. FreeCodeCamp: Uma comunidade online que oferece cursos gratuitos de programação em várias tecnologias. (https://lnkd.in/dtWYkgf3)
+
+2. The Art of Web Development: Um guia abrangente para desenvolvimento web, incluindo HTML, CSS, JavaScript e muito mais. (https://lnkd.in/d26V85NK)
+
+3. 30 Seconds of Code: Uma coleção de trechos de código úteis e reutilizáveis em várias linguagens de programação. (https://lnkd.in/dNs73S9v)
+
+4. Public APIs: Uma lista de APIs públicas para desenvolvedores construírem aplicativos interessantes e inovadores.
+(https://lnkd.in/dH5FmAHE)
+
+5. Awesome Lists: Curadoria de listas incríveis sobre praticamente qualquer tópico relacionado à tecnologia. (https://lnkd.in/dPy4NtEu)
+
+6. Design Patterns: Um repositório que explora e documenta diferentes padrões de design de software. (https://lnkd.in/dZKduYJh)
+
+7. Roadmap to Become a Web Developer in 2021: Um guia detalhado para quem deseja se tornar um desenvolvedor web. (https://lnkd.in/dcnVCmc2)
+
+8. TensorFlow Models: Uma coleção de modelos e exemplos de código para TensorFlow, uma biblioteca popular de aprendizado de máquina. (https://lnkd.in/dz9fvKsS)
+
+9. Real Python: Um repositório cheio de tutoriais, artigos e recursos para quem está aprendendo Python. (https://lnkd.in/drNuwUxr)
+
+10. CS50's Introduction to Computer Science: O curso introdutório de ciência da computação de Harvard, disponível gratuitamente no GitHub. (https://github.com/cs50)
+
+11. The Algorithms: Implementações de algoritmos populares em várias linguagens de programação. (https://lnkd.in/df_zSYSr)
+
+12. Python Data Science Handbook: O livro "Python Data Science Handbook", disponível gratuitamente como notebooks Jupyter. (https://lnkd.in/dajMUTXc)
+
+13. Docker Cheat Sheet: Um guia prático com comandos úteis para trabalhar com Docker. (https://lnkd.in/d-JCxhqB)
+
+14. Git Cheat Sheet: Um resumo útil dos comandos mais usados do Git. (https://lnkd.in/dzcMGJvx)
+
+15. JavaScript30: Um desafio de 30 dias para construir 30 projetos interessantes usando apenas HTML, CSS e JavaScript. (https://lnkd.in/dvgTP49p)
