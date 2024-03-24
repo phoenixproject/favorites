@@ -126,6 +126,10 @@
 
 ##### [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager)<br/>
 
+#### Udemy
+
+##### [Curso de RabbitMQ]([https://github.com/settings/auth/recovery-codes](https://github.com/ValdirCezar/curso-rabbitmq))<br/>
+
 #### REPOSITÓRIOS DO GITHUB QUE VOCÊ DEVERIA SABER 🌟🚀
 
 O GitHub é uma mina de ouro para desenvolvedores, repleto de projetos incríveis que podem ajudá-lo a aprender, colaborar e se inspirar. Aqui estão 15 repositórios que você definitivamente deveria conhecer:
