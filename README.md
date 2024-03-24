@@ -128,7 +128,7 @@
 
 #### Udemy
 
-##### [Curso de RabbitMQ]([https://github.com/settings/auth/recovery-codes](https://github.com/ValdirCezar/curso-rabbitmq))<br/>
+##### [Curso de RabbitMQ]([https://github.com/settings/auth/recovery-codes](https://github.com/ValdirCezar/curso-rabbitmq)<br/>
 
 #### REPOSITÓRIOS DO GITHUB QUE VOCÊ DEVERIA SABER 🌟🚀
 
