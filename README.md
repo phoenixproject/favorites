@@ -164,3 +164,7 @@ O GitHub é uma mina de ouro para desenvolvedores, repleto de projetos incrívei
 14. Git Cheat Sheet: Um resumo útil dos comandos mais usados do Git. (https://lnkd.in/dzcMGJvx)
 
 15. JavaScript30: Um desafio de 30 dias para construir 30 projetos interessantes usando apenas HTML, CSS e JavaScript. (https://lnkd.in/dvgTP49p)
+
+#### DOCKER
+
+01. Guia rápido do WSL2 + Docker. (https://github.com/codeedu/wsl2-docker-quickstart)
