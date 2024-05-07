@@ -168,3 +168,8 @@ O GitHub é uma mina de ouro para desenvolvedores, repleto de projetos incrívei
 #### DOCKER
 
 01. Guia rápido do WSL2 + Docker. (https://github.com/codeedu/wsl2-docker-quickstart)
+
+#### Google
+
+Senha de App (https://myaccount.google.com/apppasswords)
+   
