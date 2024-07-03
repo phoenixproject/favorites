@@ -74,6 +74,8 @@
 
 #### Blazor 
 
+##### [Segurança em APIs ASP.NET com JWT e Bearer Authentication](https://github.com/balta-io/seguranca-em-apis-aspnet-com-jwt-e-bearer-authentication)<br/>
+
 ##### [Razor ASP.NET Core ciclo de vida do componente](https://learn.microsoft.com/pt-br/aspnet/core/blazor/components/lifecycle?view=aspnetcore-7.0)<br/>
 
 ##### [Limpando recursos não gerenciados](https://learn.microsoft.com/pt-br/dotnet/standard/garbage-collection/unmanaged<br/>
