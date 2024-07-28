@@ -12,6 +12,8 @@
 
 ##### [SGDK - A free and open development kit for the Sega Mega Drive ](https://github.com/Stephane-D/SGDK)<br/>
 
+##### [Guia Passo a Passo: Como Instalar o SGDK para Desenvolver Jogos para o Mega Drive](https://medium.com/@linhares.vinicius/guia-passo-a-passo-como-instalar-o-sgdk-para-desenvolver-jogos-para-o-mega-drive-a5a5b55a8d20)<br/>
+
 #### Favorites Repositories
 
 ##### [Damienbod - Asp Net Core NLog](https://github.com/damienbod/AspNetCoreNlog)<br/>
